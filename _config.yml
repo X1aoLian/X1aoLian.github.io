@@ -23,10 +23,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Heng Lian"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D student of Computer Science"
   location         : "Norfolk, VA"
-  employer         : "https://www.odu.edu/"
+  employer         : Old Dominion University"https://www.odu.edu/"
   uri              : # URL
   email            : "hlian001@odu.edu" 
 
@@ -35,14 +34,13 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=uGVjU2QAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-3240-4221"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/X1aoLian"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -70,6 +68,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
+
 
 
 # Site Settings
