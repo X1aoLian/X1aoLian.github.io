@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
 ## About Me
 
 I am currently a third-year PhD candidate in Computer Science at **Old Dominion University**, advised by [Dr. Yi He](https://www.lions.odu.edu/~y1he/index.html).
