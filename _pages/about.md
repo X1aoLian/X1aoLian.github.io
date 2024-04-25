@@ -6,8 +6,6 @@ redirect_from:
   - /about.html
 ---
 
-
-About Me
 ======
 I am currently a third-year PhD candidate in Computer Science at **Old Dominion University**, advised by [Dr. Yi He](https://www.lions.odu.edu/~y1he/index.html).
 
