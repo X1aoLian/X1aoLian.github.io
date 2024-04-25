@@ -25,7 +25,7 @@ author:
   name             : "Heng Lian"
   bio              : "Ph.D student of Computer Science"
   location         : "Norfolk, VA"
-  employer         : Old Dominion University"https://www.odu.edu/"
+  employer         : Old Dominion University
   uri              : # URL
   email            : "hlian001@odu.edu" 
 
@@ -197,16 +197,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
 
