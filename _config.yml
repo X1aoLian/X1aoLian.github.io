@@ -21,7 +21,7 @@ repository               : "academicpages/X1aoLian.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "henglian.jpg"
   name             : "Heng Lian"
   bio              : "Ph.D student of Computer Science"
   location         : "Norfolk, VA"
